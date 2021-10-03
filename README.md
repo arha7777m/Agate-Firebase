@@ -1,9 +1,9 @@
 # Agate-Firebase
 
-##About
+## About
 Chapter 8 Game Programming, Implementasi Firebase sederhana pada "Incremental Game"
 
-##More
+## More
 -Branch "step1" berisi save/load user progress (local)
 
 -Branch "step2" berisi implementasi firebase (cloud)
